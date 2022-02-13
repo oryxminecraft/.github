@@ -7,4 +7,4 @@ We create these innovative gamemodes:
 
 ## Open Source
 
-We love open source! please check out some of our open source plugins:
+We love open source! please check out some of our open source plugins / libaries:
